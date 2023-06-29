@@ -6,13 +6,13 @@
 <h1 align="center">Hi 👋, I'm Yash Patel</h1>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj-chothani&label=Profile%20views&color=0e75b6&style=flat" alt="niraj-chothani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj-chothani&label=Profile%20views&color=0e75b6&style=flat" alt="yash-patel" /> </p>
 
-- 🔭 I’m currently working on **Medical Management**
+- 🔭 I’m currently working on **Study Management**
 
 - 🌱 I’m currently learning **Android**
 
-- 💬 Ask me about **Android,C#**
+- 💬 Ask me about **Php,C**
 
 - 📫 How to reach me **yashpatelys1101@gmail.com**
 
